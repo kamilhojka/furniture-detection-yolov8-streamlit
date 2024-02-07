@@ -17,11 +17,19 @@ cd furniture-detection-yolov8-streamlit/app
 ```
 
 Download requirements Python packages
+
 ```sh
 pip install -r requirements.txt
 ```
 
+Install the apt-get dependencies from packages.txt
+
+```sh
+sudo xargs -a packages.txt apt-get install
+```
+
 Run the app
+
 ```sh
 streamlit run app.py
 ```
