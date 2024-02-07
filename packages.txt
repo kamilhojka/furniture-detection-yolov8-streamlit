@@ -1,0 +1,8 @@
+libgl1-mesa-dri
+libgl1
+libglapi-mesa
+libglib2.0-0
+libglib2.0-data
+libglvnd0
+libglx-mesa0
+libglx0
